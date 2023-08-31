@@ -1,16 +1,3 @@
 # flutter_beginner
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+YouTubeチャンネル Flutter大学の [Flutter超入門【2022年6月】](https://www.youtube.com/playlist?list=PLuLRJz1UnJzHX1dDN-jnaa7gQ3Av7eEmJ) を見て作成したアプリのソースコード（一部変更あり）
